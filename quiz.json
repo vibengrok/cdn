@@ -1,9 +1,9 @@
 {
 "setting": {
 "title": "Question Exam",
-"description": "Comprehensive exam with 25 questions",
+"description": " 25 questions",
 "timeLimit": 1500,
-"passingScore": 150
+"passingScore": 25
 },
 "quiz": [
 {
